@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hi I'm Hailey 👋
+# Junior Frontend Engineer 👩🏻‍💻🦾
+
+## I'm learning about React, HTML5, CSS3 and JavaScript
+
+
+
+
+
+
+
+
+
 
 <!--
 **TangerineeHan/TangerineeHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
