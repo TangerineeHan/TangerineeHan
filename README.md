@@ -1,7 +1,7 @@
 # Hi👋 I'm Hailey ( •̀ ω •́ )✧  
 
 ### 👩🏻‍💻 Junior Frontend Engineer 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TangerineeHan&show_icons=true&theme=nightowl)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TangerineeHan&show_icons=true&theme=nightowl) -->
 
 ## 💻 Studying Skills 
 ### Platforms & Languages
