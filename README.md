@@ -1,4 +1,4 @@
-# Hi👋 I'm Hailey ( •̀ ω •́ )✧  
+# Hi👋 I'm Hailey
 
 ### 👩🏻‍💻 Junior Frontend Engineer 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TangerineeHan&show_icons=true&theme=nightowl) -->
