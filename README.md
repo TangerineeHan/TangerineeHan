@@ -5,7 +5,7 @@
 
 <!-- 뱃지 -->
 <div>
-  <h1>🍀 Recently Using & Used</h1>
+  <h1>🍀 Currently Using & Until Recently Used Skills 🍀</h1>
   <span>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -31,7 +31,7 @@
 <!-- 포스팅 블로그 -->
 <br><br>
 <div>
-  <h1>🌱 Posting</h1>
+  <h1>🌟 Studying & Recording 🌟</h1>
   <span>
     <a href="https://tangerineee0120.tistory.com/">
     <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=default">
